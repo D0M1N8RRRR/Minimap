@@ -1,4 +1,6 @@
 # Minimap
+![GitHub all releases](https://img.shields.io/github/downloads/grzybeksigma/Minimap/total.svg)
+
 a minimap for gorillatag
 made this because moste of these was paid so I made it for free
 ![image](https://github.com/user-attachments/assets/bdbff802-3714-482a-96f7-981e32190991)
