@@ -1,7 +1,4 @@
 # Minimap
-<a href="https://github.com/grzybeksigma/Minimap/releases">
-    <img src="https://img.shields.io/github/downloads/grzybeksigma/Minimap/total.svg?style=for-the-badge" alt="GitHub all releases">
-</a>
 
 a minimap for gorillatag
 made this because moste of these was paid so I made it for free
