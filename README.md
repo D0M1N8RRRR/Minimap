@@ -1,5 +1,8 @@
 # Minimap
 
+
+this mod is made by me and stop removing my mods from the offical gorilla tag modding server cuz yall thinking i stole the code
+
 a minimap for gorillatag
 made this because moste of these was paid so I made it for free
 ![image](https://github.com/user-attachments/assets/bdbff802-3714-482a-96f7-981e32190991)
